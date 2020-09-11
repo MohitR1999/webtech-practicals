@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./main.css" type="text/css">
+    <title>Image experiment</title>
+</head>
+
+<body>
+    <div id="content">
+        <h2>Click the image below to go to Google</h2>
+        <div id="link">
+            <a href="https://www.google.com/" target="_blank">
+                <img src="./res/img/580b57fcd9996e24bc43c51f.png" alt="Google Logo"/>
+            </a>
+        </div>
+        <button id="top" onclick="goToTop()">Go to Top</button>
+    </div>
+    <script>
+        function goToTop() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+    </script>
+</body>
+
+</html>
