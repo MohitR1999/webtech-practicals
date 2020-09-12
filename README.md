@@ -27,8 +27,9 @@ Also, please change the code at your end suitably to avoid plag detection :)
     |Red|Sardar Patel|Kapil Dev|
     |Green|Gandhiji|Sachin Tendulkar|
     |Yellow|Indiraji|Sunil Gawaskar|
-    |Blue|Nehruji|Ajay Jadeja|  
-    Write a HTML code for making table to containing different option for different questions:
-    ![experiment 6](./screenshots/exp6.png)
+    |Blue|Nehruji|Ajay Jadeja|
+
+Write a HTML code for making table to containing different option for different questions:
+![experiment 6](./screenshots/exp6.png)
 
     
