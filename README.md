@@ -23,10 +23,12 @@ Also, please change the code at your end suitably to avoid plag detection :)
     ![experiment 3-2](./screenshots/exp52.png)
 - ## Experiment 6
     | Which is your favourite color? | Who is your national leader? | Who is the highest test centuries person in India? |
-    | -------------------------------|----------------------------|--------------------------------------------------|
+    | -------------------------------|------------------------------|----------------------------------------------------|
     |Red|Sardar Patel|Kapil Dev|
     |Green|Gandhiji|Sachin Tendulkar|
     |Yellow|Indiraji|Sunil Gawaskar|
     |Blue|Nehruji|Ajay Jadeja|  
     Write a HTML code for making table to containing different option for different questions:
+    ![experiment 6](./screenshots/exp6.png)
+
     

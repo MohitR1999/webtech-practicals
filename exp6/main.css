@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 20px;
+}
+
+html {
+    height: 100vh;
+}
+
+body {
+    background-color: #121212;
+    height: 100%;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    border: 2px solid #fff;
+    padding: 10px;
+}
+
+td, th {
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: #2c2c2c;
+}
+
+tr {
+    background-color: #3d3d3d;
+}
