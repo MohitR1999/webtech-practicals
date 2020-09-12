@@ -19,6 +19,8 @@ Also, please change the code at your end suitably to avoid plag detection :)
     ![experiment 4-3](./screenshots/exp43.png)
 - ## Experiment 5
     Design page that has 5 equal columns the table should look the same in all screen resolution.
+    ![experiment 3-1](./screenshots/exp51.png)
+    ![experiment 3-2](./screenshots/exp52.png)
 - ## Experiment 6
     | Which is your favourite color? | Who is your national leader? | Who is the highest test centuries person in India? |
     | -------------------------------|----------------------------|--------------------------------------------------|
