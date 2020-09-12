@@ -14,6 +14,9 @@ Also, please change the code at your end suitably to avoid plag detection :)
     ![experiment 3-2](./screenshots/exp32.png)
 - ## Experiment 4
     Design a single page web site for a university containing a description of the courses offered, it should also contain some general information about the university such as its history, the campus and its unique features the page should be coloured and each section should have different colour
+    ![experiment 4-1](./screenshots/exp41.png)
+    ![experiment 4-2](./screenshots/exp42.png)
+    ![experiment 4-3](./screenshots/exp43.png)
 - ## Experiment 5
     Design page that has 5 equal columns the table should look the same in all screen resolution.
 - ## Experiment 6
@@ -22,6 +25,6 @@ Also, please change the code at your end suitably to avoid plag detection :)
     |Red|Sardar Patel|Kapil Dev|
     |Green|Gandhiji|Sachin Tendulkar|
     |Yellow|Indiraji|Sunil Gawaskar|
-    |Blue|Nehruji|Ajay Jadeja|
+    |Blue|Nehruji|Ajay Jadeja|  
     Write a HTML code for making table to containing different option for different questions:
     
