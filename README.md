@@ -32,4 +32,8 @@ Also, please change the code at your end suitably to avoid plag detection :)
 Write a HTML code for making table to containing different option for different questions:
 ![experiment 6](./screenshots/exp6.png)
 
+- ## Experiment 7
+    Write the Frameset tags and Frame tags for the following frameset:
+    ![experiment 7](./screenshots/exp7.png)
+
     
