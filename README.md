@@ -35,5 +35,8 @@ Write a HTML code for making table to containing different option for different 
 - ## Experiment 7
     Write the Frameset tags and Frame tags for the following frameset:
     ![experiment 7](./screenshots/exp7.png)
+- ## Experiment 10
+    Write a HTML code to generate the following output:
+    ![experiment 10](./screenshots/exp10.png)
 
     
