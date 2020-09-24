@@ -31,23 +31,23 @@ Also, please change the code at your end suitably to avoid plag detection :)
 
 Write a HTML code for making table to containing different option for different questions:
 ![experiment 6](./screenshots/exp6.png)
-
 - ## Experiment 7
     Write the Frameset tags and Frame tags for the following frameset:
     ![experiment 7](./screenshots/exp7.png)
-
 - ## Experiment 8
     Write html code to preview unordered list
     ![experiment 8](./screenshots/exp8.png)
-
 - ## Experiment 9
     Make a simple registration form
     ![experiment 9](./screenshots/exp9.png)
-
 - ## Experiment 10
     Write a HTML code to generate the following output:
     ![experiment 10](./screenshots/exp10.png)
-    
+- ## Experiment 11
+    Create a web page of your college with following specifications. Place your College name at the top of the page in large text followed by address in smaller size. Add names of courses offered each in a different colour, style and typeface. Add scrolling text with a message of your choice Add college image at the bottom.
+    ![experiment 11](./screenshots/exp111.png)
+    ![experiment 11](./screenshots/exp112.png)
+    ![experiment 11](./screenshots/exp113.png)
 - ## Experiment 12
     Write a HTML code to generate following output:
     ![experiment 12](./screenshots/exp12.png)
