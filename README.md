@@ -35,9 +35,19 @@ Write a HTML code for making table to containing different option for different 
 - ## Experiment 7
     Write the Frameset tags and Frame tags for the following frameset:
     ![experiment 7](./screenshots/exp7.png)
+
+- ## Experiment 8
+    Write html code to preview unordered list
+    ![experiment 8](./screenshots/exp8.png)
+
+- ## Experiment 9
+    Make a simple registration form
+    ![experiment 9](./screenshots/exp9.png)
+
 - ## Experiment 10
     Write a HTML code to generate the following output:
     ![experiment 10](./screenshots/exp10.png)
+    
 - ## Experiment 12
     Write a HTML code to generate following output:
     ![experiment 12](./screenshots/exp12.png)
