@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    background-color: #381407;
+}
+
+#cover {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: flex-start;
+    background :linear-gradient(0deg, rgba(56,20,7,1) 5%, rgba(131, 99, 87, 0.8) 100%), url('../img/IMG_20190409_152154068.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#cover p, #cover h2, #cover h4 {
+    margin-left: 50px;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+
+
+#cover p {
+    font-weight: 100;
+    font-size: 75px;
+}
+
+#cover img {
+    margin-left: 50px;
+    width: 200px;
+}
+
+.container {
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 2% 0;
+    border-radius: 20px;
+    margin: 2% 10%;
+    background: #852907;
+}
+
+.campus .container {
+    background: #9C1300;
+}
+
+.text {
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 5%;
+    flex: 1;
+}
+
+.courses .container {
+    background: #915100;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.courses-header {
+    font-size: 20px;
+}
+
+.courses-body {
+    padding: 2% 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.courses-body .text p {
+    font-size: 15px;
+}
+
+.courses-body .image {
+    display: flex;
+    flex: 1;
+    padding: 5%;
+}
+
+.courses-body .image img {
+    width: 100%;
+}
+
+.course {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.caption {
+    margin: 1% 0;
+}
+
+
+.text p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.image {
+    flex-wrap: wrap;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.image img {
+    width: 75%;
+    border-radius: 20px;
+}
+
+.button {
+    text-decoration: none;
+    font-size: large;
+    color: #fff;
+    background-color: #a03109;
+    padding: 4% 8%;
+    border-radius: 50px;
+    transition: all 0.2s;
+}
+
+.button:hover {
+    background-color: #551c08;
+}
+
+#links {
+    display: flex;
+    flex-direction: row;
+}
+
+.link {
+    padding: 5% 5%;
+    flex-direction: row;
+    justify-content: center;
+    display: flex;
+    flex: 1;
+}
