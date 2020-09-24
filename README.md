@@ -38,6 +38,11 @@ Write a HTML code for making table to containing different option for different 
 - ## Experiment 10
     Write a HTML code to generate the following output:
     ![experiment 10](./screenshots/exp10.png)
+- ## Experiment 11
+    Create a web page of your college with following specifications. Place your College name at the top of the page in large text followed by address in smaller size. Add names of courses offered each in a different colour, style and typeface. Add scrolling text with a message of your choice Add college image at the bottom.
+    ![experiment 11](./screenshots/exp111.png)
+    ![experiment 11](./screenshots/exp112.png)
+    ![experiment 11](./screenshots/exp113.png)
 - ## Experiment 12
     Write a HTML code to generate following output:
     ![experiment 12](./screenshots/exp12.png)
