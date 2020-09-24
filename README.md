@@ -38,5 +38,8 @@ Write a HTML code for making table to containing different option for different 
 - ## Experiment 10
     Write a HTML code to generate the following output:
     ![experiment 10](./screenshots/exp10.png)
+- ## Experiment 12
+    Write a HTML code to generate following output:
+    ![experiment 12](./screenshots/exp12.png)
 
     
