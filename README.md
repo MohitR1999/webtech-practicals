@@ -51,5 +51,9 @@ Write a HTML code for making table to containing different option for different 
 - ## Experiment 12
     Write a HTML code to generate following output:
     ![experiment 12](./screenshots/exp12.png)
+- ## Experiment 13
+    Write a HTML code to generate the following output:
+    a<sub>0</sub>+a<sub>1</sub>x+a<sub>2</sub>x<sup>2</sup>+a<sub>3</sub>x<sup>3</sup>
+    ![experiment 13](./screenshots/exp13.png)
 
     
