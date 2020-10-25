@@ -61,4 +61,7 @@ Write a HTML code for making table to containing different option for different 
 - ## Experiment 15
     Create a simple form to submit user input like his name, age, address and favorite subject. Put validation checks on values entered by the user using JavaScript (such as age should be a value between 1 and 150).
     ![experiment 15](./screenshots/exp15.png)
+- ## Experiment 16
+    Write a JavaScript program to display information box as soon as page loads.
+    ![experiment 16](./screenshots/exp16.png)    
     
