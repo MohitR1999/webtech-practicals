@@ -64,4 +64,7 @@ Write a HTML code for making table to containing different option for different 
 - ## Experiment 16
     Write a JavaScript program to display information box as soon as page loads.
     ![experiment 16](./screenshots/exp16.png)    
-    
+- ## Experiment 17
+    Write a JavaScript program to change background colour after 5 seconds of page load.
+    ![experiment 17 - 1](./screenshots/exp171.png)    
+    ![experiment 17 - 2](./screenshots/exp172.png)    
