@@ -24,7 +24,7 @@ body {
 }
 
 #cover p, #cover h2 {
-    margin-left: 50px;
+    margin-left: 25px;
     color: rgb(255, 255, 255);
     text-transform: uppercase;
 }
@@ -35,7 +35,7 @@ body {
 }
 
 #cover img {
-    margin-left: 50px;
+    margin-left: 25px;
     width: 200px;
 }
 
@@ -110,7 +110,7 @@ body {
 
 
 .text p {
-    font-size: 20px;
+    font-size: 15px;
     text-align: justify;
 }
 
