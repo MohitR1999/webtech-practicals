@@ -68,3 +68,7 @@ Write a HTML code for making table to containing different option for different 
     Write a JavaScript program to change background colour after 5 seconds of page load.
     ![experiment 17 - 1](./screenshots/exp171.png)    
     ![experiment 17 - 2](./screenshots/exp172.png)    
+- ## Experiment 20
+    Create a simple form to check if string is empty or not.
+    ![experiment 20 - 1](./screenshots/exp201.png)
+    ![experiment 20 - 2](./screenshots/exp202.png)
